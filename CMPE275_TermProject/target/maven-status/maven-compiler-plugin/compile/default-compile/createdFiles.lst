@@ -1,0 +1,9 @@
+com\sjsu\cmpe275\projectmanager\service\Completed.class
+com\sjsu\cmpe275\projectmanager\configuration\AppConfig.class
+com\sjsu\cmpe275\projectmanager\configuration\AppInitializer.class
+com\sjsu\cmpe275\projectmanager\service\StateContext.class
+com\sjsu\cmpe275\projectmanager\service\IState.class
+com\sjsu\cmpe275\projectmanager\configuration\HibernateConfiguration.class
+com\sjsu\cmpe275\projectmanager\controller\ProjectController.class
+com\sjsu\cmpe275\projectmanager\service\Ongoing.class
+com\sjsu\cmpe275\projectmanager\service\Planning.class
